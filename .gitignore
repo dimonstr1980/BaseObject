@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.env
+.venv
+env/
+venv/
+cython_debug/
+*.exe
+/.pytest_cache/
+/.idea
